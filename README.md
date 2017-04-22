@@ -28,3 +28,6 @@ your HTTP client of choice:
 $ curl localhost:8080/user/1
 {"id":1,"name":"Austin","friends":[2,5]}
 ```
+
+This is also hosted on heroku at https://vast-sands-40242.herokuapp.com/
+
