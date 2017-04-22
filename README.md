@@ -31,3 +31,6 @@ $ curl localhost:8080/user/1
 
 This is also hosted on heroku at https://vast-sands-40242.herokuapp.com/
 
+## Problem 2 solution
+SQL table definitions are in [this .sql file](cookpad-test-problem2.sql).
+
